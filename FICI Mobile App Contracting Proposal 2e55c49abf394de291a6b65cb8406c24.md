@@ -2,27 +2,25 @@
 
 ## App design and development Proposal
 
-> 🎯 **Goal:** To craft a seamless product experience for FICI. The UI and UX should be modern, intuitive, and Egaging. People should appreciate the smoothness and easy-going approach of the app.
-
-> 🎯 **Technical** **Goal:** Target 2 most promineint OS's iOS and Android. Code quality should reflect
-
-![https://tinyfac.es/data/avatars/475605E3-69C5-4D2B-8727-61B7BB8C4699-500w.jpeg](https://tinyfac.es/data/avatars/475605E3-69C5-4D2B-8727-61B7BB8C4699-500w.jpeg)
-
 **Prepared by Rahat Baksh
 rahat392@gmail.com**
 [Github](https://github.com/rahat1994)
 
-## 🗎 Scope Of Work
+> 🎯 **Goal:** To craft a seamless product experience for FICI. The UI and UX should be modern, intuitive, and Egaging. People should appreciate the smoothness and easy-going approach of the app.
+
+> 🎯 **Technical** **Goal:** Target 2 most promineint OS's iOS and Android. Code quality should reflect
+
+## Scope Of Work
 
 ---
 
-![FICI%20Mobile%20App%20Contracting%20Proposal%202e55c49abf394de291a6b65cb8406c24/layers.png](FICI%20Mobile%20App%20Contracting%20Proposal%202e55c49abf394de291a6b65cb8406c24/layers.png)
+# 🌠
 
 **UI/UX Design**
 
 We will craft the most modern user interface design. We believe in creating human experiences throughout the app. It will deploy custom illustrations and your conversions will increase with 20%
 
-![https://image.flaticon.com/icons/svg/149/149206.svg](https://image.flaticon.com/icons/svg/149/149206.svg)
+# 🥇
 
 **App Development**
 
@@ -30,88 +28,94 @@ We will craft the most modern user interface design. We believe in creating huma
 
 ---
 
-## 🕌 App Features
+## 🕌 Public App Features
 
 ---
 
 1. **Prayer & Jamaat Time**
-- View 5 times daily prayer (Starting Time) & Jamaat times
+    - View 5 times daily prayer (Starting Time) & Jamaat times **(Working)**
+    - View Jummah Khutbah & Jamaat time **(Not working properly)**
+2. **Live Video Streaming**
+    - Watch Live streaming with a toggle to share on Social Media (FB, YouTube, WhatsApp) **(Working But static)**
+    - Option to save to library/cloud or download.( Currently streams from YouTube can save on personal YouTube account download not available)
+3. **Donation Management (Not Working)**
+    - Make donation and have an option to choose type of donation (Masjid/ Madrasa/Zakat/Sadqah)
+    - Enter (First Name, Last Name, Address, Phone number, email)
+    - One-time payment or Recurring payment option with time frame or amount (i.e. I want to pay $1,000 in 12 months)
+    - Save payment method and automatically accept recurring donations
+    - Option to make payment through Credit/Debit Card or bank Account
+    - Option for receipt via email
+4. **Communication (Not Working)**
+    - Get event alerts through app via message or pdf
+    - Receive Notification for Jamaat time changes on app.
+    - Receive notification for donation commitment, fully paid or remaining due.
+5. **Newsfeed (Not Working)**
+    - Option to scroll and see Multiple Slides
+6. **Daily Supplication (Dua) & Hadiths – English, Bangla, or Arabic (Not Working)**
+    - Read or watch daily hadith.
+    - Read or watch daily dua’s.
+    - Have option to share, whether its video, image, or pdf
+7. **Home Page**
+    - View Address and contact information **(Non existing)**
+    - Option to use Google map to find address or navigate **(Non existing)**
+    - View Daily 5 times and Jummah prayer time
+    - View current prayer time (i.e. Isha time now or Isha Jamaat Starts in 20 Minutes)
+    - View Calendar Date on home page
+    - Option on setting that turns phone on silent during Jamaat time **(Non existing)**
+    - Find Qiblah direction from App **(Non existing)**
+    - Click Tab to see (About us, Our Mission, Our Vision)
+    - Donation option **(Not Working)**
 
-    vdsgvdsg
+---
 
-- View Jummah Khutbah & Jamaat time
+## 🕋 Admin Panel View
 
-## 💵 Pricing
+---
 
-[Breakdown](https://www.notion.so/675c678d7f534b479b881d6aceeaa3e8)
+> For now admin panel is a non secured URL returning static JSON.
+
+> The website needs serious UX and UI and improvemen.
+
+1. **Two Admin access**
+    - First general Admin that can change any information
+    - Second user admin that can only have access to view all information
+2. **Prayer & Jamaat Time**
+    - Set yearly Jamaat times through admin page with excel template
+    - Set Jummah/Khutba times
+3. **Calendar**
+    - Allow option to setup Arabic & English Monthly Calendar
+4. **Live Video Streaming**
+    - Live streaming only from Admin, option to share on Social Media
+    - Option to save to library/cloud or download
+    - Allow Both admin & general user to live stream videos
+5. **Donation Management**
+    - Allow Admin to see Donation categories, accepted or declined payments
+    - Automatically input all new donators to the different member category
+    - Allow admin to add previous paid/nonpaid donators through excel categorically
+    - Allow admin to update donation status if paid by other method
+    - Import/Export data through excel reporting.
+    - Allow user admin to search for donators or information but not permission to edit
+6. **Communication**
+    - Send Event alerts through app, text, mms, voice messages.
+    - Send reminder of past due donations through text or email.
+    - Send Notification for Jamaat time changes on app.
+7. **Newsfeed**
+    - Multiple Slide Options
+    - i.e., Your Donation @work, allow admin to share Pics & Videos with messages
+8. **Daily Supplication & Hadiths**
+    - Allow to upload documents, pdf or videos
+    - Allow text to write dua or hadith
+9. **Bookkeeping & Expenditures**
+    - Input all monthly donation/expenses, and option to pull report through excel by days, weeks, months & year.
+
+## ⏳ Time Frame
+
+[Timeframe breakdown](FICI%20Mobile%20App%20Contracting%20Proposal%20e62a9edcd5734942b11b30c2b1bfce29/Timeframe%20breakdown%20c86af6266c9f4fea9a066e18a9f76c18.csv)
 
 ## Payment Instructions
 
-1. 50% Advance and 50% after work being done.
-2. PayPal address : someone@paypal.com
-3. Bank Details : 889888966465466445 New York
-4. Venmo Details : someone@venmo.com
-
----
-
-### 💻 Careplans & Web Security
-
-Don't let them hackers spoil your life's work
-
-# $199/m
-
-Essential Plan
-
-✔️ Feature 1
-
-✔️ Feature 2
-
-✔️ Feature 3
-
-      **[Get Started Today →](mailto:email@gmail.com)** 
-
-# $299/m
-
-Basic Plan
-
-✔️ Feature 1
-
-✔️ Feature 2
-
-✔️ Feature 3
-
-✔️ Feature 4
-
-✔️ Feature 5
-
-      **[Get Started Today →](mailto:email@gmail.com)** 
-
-# $399/m
-
-PRO Plan
-
-✔️ Feature 1
-
-✔️ Feature 2
-
-✔️ Feature 3
-
-✔️ Feature 4
-
-✔️ Feature 5
-
-✔️ Feature 6
-
-      **[Get Started Today →](mailto:email@gmail.com)** 
-
-# $899/m
-
-Custom Pricing?
-
-Don't find in any of these buckets? Don't worry we got you covered. We'll compare and let you know the best plans for you.
-contact@yourmail.com
-
----
+1. 30% Advance and 70% after work being done.
+2. Bank details will be provided.
 
 ## Terms & Conditions
 
