@@ -2,8 +2,9 @@
 
 ## App design and development Proposal
 
-**Prepared by Rahat Baksh
-rahat392@gmail.com**
+**Prepared by Rahat Baksh**
+**rahat392@gmail.com**
+
 [Github](https://github.com/rahat1994)
 
 > 🎯 **Goal:** To craft a seamless product experience for FICI. The UI and UX should be modern, intuitive, and Egaging. People should appreciate the smoothness and easy-going approach of the app.
